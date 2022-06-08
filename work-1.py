@@ -1,5 +1,7 @@
-import numbers
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+import numbers
 
 def test():
     number = int(input('введите число: '))

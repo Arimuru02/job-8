@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def getInput(): return(input('запрашиваю ввод: '))
 def testInput(n):
     try: n = int(n); return(True)
